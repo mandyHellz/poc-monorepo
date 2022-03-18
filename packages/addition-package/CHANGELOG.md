@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.5](https://github.com/mandyHellz/poc-monorepo/compare/addition-op-package@1.1.4...addition-op-package@1.1.5) (2022-03-18)
+
+
+### Bug Fixes
+
+* fixed module export call ([d2ead59](https://github.com/mandyHellz/poc-monorepo/commit/d2ead59ff9a0945f1193df99151405486fab7da7))
+
+
+
+
+
 ## [1.1.4](https://github.com/mandyHellz/poc-monorepo/compare/addition-op-package@1.1.3...addition-op-package@1.1.4) (2022-03-18)
 
 **Note:** Version bump only for package addition-op-package
