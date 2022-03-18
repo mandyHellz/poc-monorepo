@@ -1,8 +1,8 @@
 {
-  "name": "@types/addition-op-package",
+  "name": "addition-op-package",
   "version": "1.1.2",
   "main": "index.js",
   "license": "MIT",
   "private": false,
-  "gitHead": "828acf1053f75a9a767841512bbbc8b3e601b99d"
+  "gitHead": "3bd88dbd88b41f7108e37da073acd9cfb9183d4e"
 }
