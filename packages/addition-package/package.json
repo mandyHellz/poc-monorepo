@@ -4,5 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "publicConfig": {
+    "access": "public"
+  },
   "gitHead": "3bd88dbd88b41f7108e37da073acd9cfb9183d4e"
 }
