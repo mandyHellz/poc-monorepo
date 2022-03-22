@@ -9,10 +9,8 @@
     "access": "public"
   },
   "scripts": {
-    "prepack": "yarn build",
-    "build": "yarn clean && yarn compile",
     "compile": "tsc --build && cp \"./package.json\" ./dist/",
     "lint": "eslint \"./src/**/*.{ts,tsx}\" --max-warnings=0"
   },
-  "gitHead": "3bd88dbd88b41f7108e37da073acd9cfb9183d4e"
+  "gitHead": "89fe3466408d8d54b955cb5320cccf141e7ed054"
 }
