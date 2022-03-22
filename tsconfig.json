@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./packages",
+    "paths": {
+      "@poc-monorepo/addition-pack/*": ["addition-pack/src/*"],
+      "@poc-monorepo/subtraction-pack/*": ["subtraction-pack/src/*"]
+    }
+  }
+}

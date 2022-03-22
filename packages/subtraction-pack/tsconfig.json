@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.build.json",
+  "compilerOptions": {
+    "composite": true,
+    "rootDir": "./src",
+    "outDir": "./dist"
+  },
+  "references": [{ "path": "" }],
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/__tests__/*", "**/__e2e__/*"]
+}
