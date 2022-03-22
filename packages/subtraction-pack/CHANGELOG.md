@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.5](https://github.com/mandyHellz/poc-monorepo/compare/@poc-monorepo/subtraction-pack@1.1.4...@poc-monorepo/subtraction-pack@1.1.5) (2022-03-22)
+
+**Note:** Version bump only for package @poc-monorepo/subtraction-pack
+
+
+
+
+
 ## [1.1.4](https://github.com/mandyHellz/poc-monorepo/compare/@poc-monorepo/subtraction-pack@1.1.3...@poc-monorepo/subtraction-pack@1.1.4) (2022-03-22)
 
 **Note:** Version bump only for package @poc-monorepo/subtraction-pack
