@@ -12,5 +12,5 @@
     "compile": "tsc --build && cp \"./package.json\" ./dist/",
     "lint": "eslint \"./src/**/*.{ts,tsx}\" --max-warnings=0"
   },
-  "gitHead": "b42d014baea6a246037067c73a55f2a771552d3e"
+  "gitHead": "791b305a437521043ef3e6778e17fbd53a179bed"
 }
